@@ -13,6 +13,11 @@ O Curso GO Expert é uma formação completa para fazer com que pessoas desenvol
 
 ---
 
+## Repositório Pai
+https://github.com/alcir-junior-caju/study-go-expert
+
+---
+
 ## Visualizar o projeto na IDE:
 
 Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, esse recurso do GitHub é bem bacana
